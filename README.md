@@ -42,5 +42,5 @@ pip install selenium pandas
 
 ## Observações
 
-Esse codigo serve para qualquer ocasisão de Web Scraper basta apenas ajustar para cada ocasião que seja necessario!
+Esse codigo serve para qualquer ocasisão de Web Scraper relacionada a pegar informações com base no elemento da pagina, basta ajustar os elementos da pagina que você quer os dados!
 
